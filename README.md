@@ -1,10 +1,10 @@
 # Learning-shell
-Learning shell for Automate the Operating System
+ # Learning shell  Automate the Operating System
 
 # Shell Scripting Important Tops 
 ______________________________
 # 1.she-bang , comments
-# 2.Quotes,Redirectors
+# 2.Quotes,Re directors
 # 3.print
 # 4 . Variables
 # 5.Inputs
