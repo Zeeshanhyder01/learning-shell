@@ -1,5 +1,5 @@
-#!/bin/bash
-ls
-cat /etc/passwd
+#!/bin/python
+
+print "hello world"
 
 #This is a sample she-bang file
