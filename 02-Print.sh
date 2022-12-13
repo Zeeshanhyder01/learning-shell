@@ -13,4 +13,4 @@ echo -e " zeeshan, \n Hasan, \n Zaheda"
 # Print Tab spac b/w two charcters
 #syntax : echo -e "a\tb"
 
-echo -e" zeeshan\tHyder"
+echo -e" zeeshan\t Hyder"
