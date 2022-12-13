@@ -1,5 +1,6 @@
-#!/bin/python
+#!/bin/bash
 
-print "hello world"
+ ls
+
 
 #This is a sample she-bang file
