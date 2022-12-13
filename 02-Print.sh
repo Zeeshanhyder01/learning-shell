@@ -6,4 +6,4 @@ echo " Hello Zeeshan"
 
 # Print line by line
 
-echo " zeeshan, \n Hasan, \n Zaheda"
+echo -e " zeeshan, \n Hasan, \n Zaheda"
