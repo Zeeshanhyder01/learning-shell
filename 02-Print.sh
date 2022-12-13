@@ -20,3 +20,5 @@ echo -e "a\tb"
 #Syntax : echo -e "\e[COLm MESSAGE \e [0m
 
 echo -e "\e[33m Zeeshan in Yellow colour \e[0m"
+
+echo -e "\e[34m Hasan \e[0m"
