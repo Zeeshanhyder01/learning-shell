@@ -14,3 +14,9 @@ echo -e " zeeshan, \n Hasan, \n Zaheda"
 #syntax : echo -e "a\tb"
 
 echo -e "a\tb"
+
+#Print some colours
+
+#Syntax : echo -e "\e[COLm MESSAGE \e [0m
+
+echo -e "\e[33m Zeeshan in Yellow colour \e[0m"
