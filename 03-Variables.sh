@@ -6,7 +6,7 @@
 #two  types of Decleration 1-Commands 2-Arithemetic expressions
 DATE=$(date +%F)
 
-echo welcome, Today date is : $DATE
+echo welcome, Today date is :$DATE
 
 #2Arithemetic
 a=$((2+3))
@@ -16,5 +16,7 @@ echo The Value of a:$a
 
 a=(10 20 30)
 echo ${a[1]}
+
+echo a=$a
 
 
