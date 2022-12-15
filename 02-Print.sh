@@ -22,3 +22,7 @@ echo -e "a\tb"
 echo -e "\e[33m Zeeshan in Yellow colour \e[0m"
 
 echo -e "\e[34m Hasan \e[0m"
+
+echo -e "\e[36m Karrar \e[0m"
+
+echo -e "\e[35m Zaheda \e[0m"
