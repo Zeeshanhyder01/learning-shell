@@ -17,6 +17,6 @@ echo The Value of a:$a
 a=(10 20 30)
 echo ${a[1]}
 
-echo a=$a
+echo z=$z
 
 
