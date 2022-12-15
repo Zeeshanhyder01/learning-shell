@@ -7,3 +7,9 @@
 DATE=$(date +%F)
 
 echo welcome, Today date is : $DATE
+
+#2Arithemetic
+a=$((2+3))
+
+echo $a
+
