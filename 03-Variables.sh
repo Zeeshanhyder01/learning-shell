@@ -12,6 +12,7 @@ echo welcome, Today date is : $DATE
 a=$((2+3))
 
 echo The Value of a:$a
+#Arrays
 
 a=(10 20 30)
 echo ${a[1]}
