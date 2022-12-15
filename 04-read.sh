@@ -7,6 +7,6 @@ echo -e "hey $name, Welcome to DevOps Training"
 read -p 'Enter Your Age :' Age
 echo -e " hey Your was $Age years old "
 
-readd -p ' Contact Number :' contact
+read -p ' Contact Number :' contact
 echo -e " Your Contact Number is : $contact, Thanks for sharing Your Details"
 echo -e " Regards \n Zeeshan"
