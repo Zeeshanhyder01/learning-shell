@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
  ls
-exit 136
+exit 10
 echo "Zeeshan"
