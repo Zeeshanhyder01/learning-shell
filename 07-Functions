@@ -15,7 +15,7 @@ xyz
 Zeeshan ()
 {
   echo a =$a
-  b=30
+  b =30
 
 }
 #Main Program
