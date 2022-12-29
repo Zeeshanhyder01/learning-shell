@@ -11,3 +11,13 @@ function xyz()
   echo XYZ Function
 }
 xyz
+
+Zeeshan ()
+{
+  echo a =$a
+  b=20
+
+}
+a=10
+echo b =$b
+Zeeshan
