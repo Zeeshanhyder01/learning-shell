@@ -1,24 +1,10 @@
 #!/usr/bin/bash
-abc () {
-  echo ABC Function
-}
-abc
-
-#Declare Another function
-
-function xyz()
-{
-  echo XYZ Function
-}
-xyz
-#This is Function
-Zeeshan ()
+zeeshan()
 {
   echo a =$a
-  b=20
-}
-#Main Program
-a=10
-echo b = $b
+  b = 10
 
-Zeeshan
+}
+zeeshan
+echo b=$b
+
