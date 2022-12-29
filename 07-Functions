@@ -10,7 +10,7 @@ function xyz()
 {
   echo XYZ Function
 }
-
+xyz
 #This is Function
 Zeeshan ()
 {
