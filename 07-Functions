@@ -11,13 +11,15 @@ function xyz()
   echo XYZ Function
 }
 xyz
-
+#This is Function
 Zeeshan ()
 {
   echo a =$a
-  b=20
+  echo b =$b
 
 }
+#Main Program
 a=10
-echo b=$b
+b=20
+echo sum of a+b =($a+$b)
 Zeeshan
