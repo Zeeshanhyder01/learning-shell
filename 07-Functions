@@ -3,3 +3,11 @@ abc () {
   echo ABC Function
 }
 abc
+
+#Declare Another function
+
+function xyz()
+{
+  echo XYZ Function
+}
+xyz
