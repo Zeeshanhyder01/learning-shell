@@ -15,11 +15,11 @@ xyz
 Zeeshan ()
 {
   echo a =$a
-  echo b =$b
+  b=30
 
 }
 #Main Program
 a=10
-b=20
+echo b= $b
 
 Zeeshan
