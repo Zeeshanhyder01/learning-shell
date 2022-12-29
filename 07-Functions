@@ -10,11 +10,12 @@ function xyz()
 {
   echo XYZ Function
 }
-xyz
+
 #This is Function
 Zeeshan ()
 {
-  echo a =$a , b=30
+  echo a =$a
+  b=20
 }
 #Main Program
 a=10
