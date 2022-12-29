@@ -6,7 +6,7 @@ zeeshan()
   echo first Argument in the Function =$1
 
 }
-zeeshan
+zeeshan 100
 a=20
 echo b=$b
 echo first Argument in the MAin  =$1
