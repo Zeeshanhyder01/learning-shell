@@ -3,7 +3,6 @@ zeeshan()
 {
   echo a= $a
   b=10
-
 }
 zeeshan
 a=10
