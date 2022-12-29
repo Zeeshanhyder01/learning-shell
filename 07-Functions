@@ -20,6 +20,6 @@ Zeeshan ()
 }
 #Main Program
 a=10
-echo b= $b
+echo b = $b
 
 Zeeshan
