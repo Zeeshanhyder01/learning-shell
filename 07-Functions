@@ -6,5 +6,6 @@ zeeshan()
 
 }
 zeeshan
+a=10
 echo b=$b
 
