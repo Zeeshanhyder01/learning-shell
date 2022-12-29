@@ -14,9 +14,7 @@ xyz
 #This is Function
 Zeeshan ()
 {
-  echo a =$a
-  b =30
-
+  echo a =$a , b=30
 }
 #Main Program
 a=10
