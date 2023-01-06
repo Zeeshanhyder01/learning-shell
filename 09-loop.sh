@@ -4,7 +4,7 @@
 #syntax :
 #Loop-command Expression or inputs ; do
    #Commands
-#done
+#done.
 
 i=0
 while [ $i -lt 5 ]; do
