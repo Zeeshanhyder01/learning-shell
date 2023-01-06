@@ -8,7 +8,7 @@
 
 i=0
 while [ $i -lt 5 ]; do
-  echo Zeeshan -$i
-  i=&((i+1))
+  echo Zeeshan - $i
+  i=$(($i+1))
 done
 
