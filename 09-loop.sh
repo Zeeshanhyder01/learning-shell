@@ -17,5 +17,5 @@ done
 i =10
 while [ $i -gt 10 ]; do
   echo hyder - $i
-  i= $(($i+1))
+  i=$(($i+1))
 done
