@@ -13,3 +13,8 @@ while [ $i -gt 11 ]; do
   echo hyder - $i
   i=$(($i+1))
 done
+i=0
+while [ $i -lt 5 ]; do
+  echo Zeeshan - $i
+  i=$(($i+1))
+done
