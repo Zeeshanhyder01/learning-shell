@@ -8,8 +8,8 @@
 #while uses Expressions
 #For uses Inputs
 
-i=10
-while [ $i -gt 11 ]; do
-  echo hyder - $i
-    i=$(($i+1))
-  done
+z=0
+while [ $z is -lt 2 ]; do
+  echo Zeeshan - $z
+  z=$(($z+1))
+done
